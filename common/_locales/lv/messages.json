@@ -1,0 +1,30 @@
+{
+	"description": {
+		"message": "Jaudīgākais Twitter klients personālajam datoram.",
+		"description": "Short description for the extension"
+	},
+	"launch": {
+		"message": "Palaist ModernDeck",
+		"description": "The ModernDeck Launcher button"
+	},
+	"name": {
+		"message": "ModernDeck - Twitter klients darbvirsmai",
+		"description": "The name of the extension that appears on the Chrome Web Store"
+	},
+	"webstoreDescription": {
+		"message": "ModernDeck ir uz TweetDeck balstīts Twitter klients, kas izmanto skaistu materiāla dizaina iedvesmotu saskarni. Tas apvieno TweetDeck jaudu un lietošanas vienkāršību, ko sagaidāt no Twitter klienta.\n\nJūs varat pielāgot ModernDeck izskatu un darbības sev piemērotā, tas ir:\n- Kolonnu un teksta izmēru\n- Fontus\n- Tēmas, tostarp alternatīvas krāsu shēmas\n- Profilu attēla izmēru un formu\nUn daudz ko vēl\n\nModernDeck ir pieejams vairākās valodās, kā arī dažādām platformām https://moderndeck.org/download vietnē",
+		"description": "The description of the extension that appears on the Chrome Web Store"
+	},
+	"grantButton": {
+		"message": "Piešķirt atļauju",
+		"description": "A button to grant tabs permission in Firefox"
+	},
+	"needsPermission": {
+		"message": "Atvainojiet, ka pārtraucām &mdash; Nepieciešama atvērt cilnes atļauja",
+		"description": "A title about granting tabs permission in Firefox"
+	},
+	"needsPermissionParagraph": {
+		"message": "ModernDeck ir nepieciešama cilnes atļauja Firefox pārlūkā, lai izveidotu jaunas cilnes.<br><br>\nTas nav obligāts, un nepieciešams tikai palaišanai. Jūs joprojām varat piekļūt ModernDeck <a href=\"https://tweetdeck.twitter.com\" target=\"_blank\">tweetdeck.twitter.com</a> vietnē pat bez šīs atļaujas.<br><br>\nJa nevēlaties piešķirt šīs tiesības, varat noņemt palaidēja pogu, ar peles labo pogu noklikšķinot un izvēloties <i>Noņemt no rīkjoslas</i><br><br>\n<b>ModernDeck neizseko jūsu atvērtās cilnes.</b>",
+		"description": "A description about granting tabs permission in Firefox"
+	}
+}
